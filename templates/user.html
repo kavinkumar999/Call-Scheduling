@@ -1,0 +1,11 @@
+<form method="POST" action="">
+    <table style="width:100%">
+        {% for user in userform %}
+        <tr>
+            <td>{{user[0]}}</td>
+            <td>{{user[1]}}</td>
+            <td><button name="subject" type="submit" value={{user[1]}}>call</button></td>
+        </tr>
+        {% endfor %}
+    </table>
+</form>
