@@ -13,8 +13,8 @@ app.config['MYSQL_HOST'] = 'localhost'
 app.config['MYSQL_USER'] = 'root'
 app.config['MYSQL_PASSWORD'] = 'Admin@123'
 app.config['MYSQL_DB'] = 'db'
-twilio_client = Client('ACd404100b29e7d4c052c0cf232cb01d31' , '0acfff53a5b6effff6f9cda41ccd53ae')
-TWILIO_NUMBER = os.environ.get('TWILIO_NUMBER', '+16178198712')
+twilio_client = Client('d' , 'd')
+TWILIO_NUMBER = os.environ.get('TWILIO_NUMBER', 'number')
 
 @app.route('/', methods=["GET", "POST"])
 def index():
