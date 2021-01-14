@@ -36,7 +36,7 @@ def index():
 def user():
     if request.method == "POST":
         jet=request.form
-        callno=jet['subject']
+        callno=jet['subject'] #phone number
         if len(callno)==10:
             return redirect("/dial/"+"+91"+callno)
         else:
