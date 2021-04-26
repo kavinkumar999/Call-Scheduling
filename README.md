@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="fuseify.png" alt="Logo" width="80" height="80">
+    <img src="call.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Call Scheduling and Triggering</h3>
