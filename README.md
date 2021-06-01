@@ -8,7 +8,7 @@
   <h3 align="center">Call Scheduling and Triggering</h3>
 
   <p align="center">
-   Schedule the calls on the web !
+   Schedule the calls in web !
     <br />
     <br />
     <br />
