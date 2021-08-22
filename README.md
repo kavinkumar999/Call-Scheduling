@@ -15,7 +15,7 @@
   </p>
 </p>
 
-## Demo
+## Demo Video
 
 https://user-images.githubusercontent.com/58802800/115963410-c6641280-a53c-11eb-900a-25f56bef9acb.mp4
 
